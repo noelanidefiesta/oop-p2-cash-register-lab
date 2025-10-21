@@ -1,3 +1,6 @@
+
+All tests passed as of 10:29am Tuesday, October 21
+
 # Object Oriented Programming (OOP) Part 2 - Cash Register Lab
 
 Now that we’ve discussed more about object oriented design philosophies and techniques like decorators we will be looking at building more complex objects. In this case we will be building a cash register object to simulate different functions of a cash register for an e-commerce site. 
